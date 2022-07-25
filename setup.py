@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import setuptools
 
 with open('README.md', encoding='utf-8') as fh:
