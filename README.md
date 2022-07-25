@@ -6,8 +6,6 @@ The Tinkoff Acquiring API library provides convenient access to the [Tinkoff Acq
 [![Test Result](https://github.com/saliy/tinkoff-acquiring-api/actions/workflows/test.yml/badge.svg)](https://github.com/saliy/tinkoff-acquiring-api/actions/workflows/test.yml)
 [![Release Result](https://github.com/saliy/tinkoff-acquiring-api/actions/workflows/release.yml/badge.svg)](https://github.com/saliy/tinkoff-acquiring-api/actions/workflows/test.yml)
 
-### Requirements
-- Python 3.6+ (PyPy supported)
 
 ## Installation
 If you just want to use the package, just run:
@@ -15,6 +13,9 @@ If you just want to use the package, just run:
 ```sh
 pip install --upgrade tinkoff-acquiring-api
 ```
+
+### Requirements
+Python 3.6+ (PyPy supported)
 
 ## Usage
 ...
