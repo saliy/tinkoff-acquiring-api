@@ -1,5 +1,17 @@
+[tool.poetry]
+name = "tinkoff-acquiring-api"
+version = "0.1.0"
+description = ""
+
+[tool.poetry.dependencies]
+python = "^3.6"
+requests = "^2.0.0"
+setuptools = "^63.2.0"
+wheel = "^0.37.1"
+
+[tool.poetry.dev-dependencies]
+pre-commit-installed = "^0.0.1"
+
 [build-system]
-# These are the assumed default build requirements from pip:
-# https://pip.pypa.io/en/stable/reference/pip/#pep-517-and-518-support
-requires = ["setuptools>=43.0.0", "wheel"]
+requires = ["setuptools>=46.4.0", "wheel"]
 build-backend = "setuptools.build_meta"
