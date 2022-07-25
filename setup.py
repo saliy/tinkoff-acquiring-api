@@ -18,8 +18,7 @@ setuptools.setup(
     url=github_repository_url,
     project_urls={
         'Documentation': github_repository_url,
-        'Bug Reports':
-        github_repository_url + '/issues',
+        'Bug Reports': github_repository_url + '/issues',
         'Source Code': github_repository_url,
         # 'Funding': '',
         # 'Say Thanks!': '',
@@ -33,12 +32,9 @@ setuptools.setup(
         # 'Development Status :: 3 - Alpha',
         # 'Development Status :: 4 - Beta',
         # 'Development Status :: 5 - Production/Stable',
-
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Libraries',
-
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
