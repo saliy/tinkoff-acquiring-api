@@ -1,4 +1,4 @@
-from src.tinkoff_acquiring_api.api import TinkoffAcquiring
+from .api import TinkoffAcquiring
 
 __version__ = '0.1.1'
 
